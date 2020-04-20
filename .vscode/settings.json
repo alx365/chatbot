@@ -1,0 +1,10 @@
+{
+    "discord.enabled": true,
+    "python.pythonPath": "/home/legendofmiracles/anaconda3/envs/test/bin/python",
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
