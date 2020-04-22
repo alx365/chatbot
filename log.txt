@@ -1,1 +1,0 @@
-Epoch:   1/100, Batch:    0/3333, Training Loss Error:  0.091, Training Time on 100 Batches: 981 seconds
